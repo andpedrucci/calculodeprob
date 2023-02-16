@@ -1,1 +1,1 @@
-
+Utilização da fórmula da kelly para definir em probabilidades qual as melhores escolhas em apostas onde existem 2 ou 3 opções, de forma que independente da escolha, o resultado seja um lucro diante do valor total apostado
